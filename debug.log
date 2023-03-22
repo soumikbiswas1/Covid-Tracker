@@ -1,0 +1,193 @@
+[0201/103118.064:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0201/104717.842:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104722.861:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104727.875:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104732.880:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104737.903:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104742.910:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104747.921:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104752.941:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104757.958:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104802.968:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104807.989:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104813.008:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104818.028:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104823.046:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104828.058:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104833.078:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104838.087:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104843.089:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104848.098:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104853.117:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104858.125:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104903.143:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104908.163:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104913.182:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104918.191:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104920.398:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0201/104920.586:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/104920.586:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/104920.615:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0201/104923.199:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104928.215:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104933.228:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104938.238:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104943.247:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104948.269:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104953.279:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/104958.287:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105003.299:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105008.311:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105013.330:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105018.346:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105023.363:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105028.386:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105033.389:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105038.401:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105043.409:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105048.429:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105053.447:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105058.453:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105103.460:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105108.471:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105113.474:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105118.484:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105123.490:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105128.506:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105133.519:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105138.526:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105143.542:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105148.556:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105153.571:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105158.577:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105203.586:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105208.604:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105213.623:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105218.643:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105223.654:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105228.672:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105233.692:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105238.707:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105243.726:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105248.737:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105253.753:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105258.762:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105303.773:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105308.794:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105313.800:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105318.810:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105323.823:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105328.843:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105333.847:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105338.853:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105343.872:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105348.891:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105353.898:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105358.909:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105403.918:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105408.933:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105413.939:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105418.951:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105423.957:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105428.972:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105433.986:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105438.999:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105444.016:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105449.037:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105454.055:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105459.061:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105504.078:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105509.092:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105514.105:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105519.118:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105524.131:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105529.142:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105534.158:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105539.177:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105544.190:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105549.207:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105554.214:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105559.219:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105604.236:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105609.255:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105614.270:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105619.288:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105624.296:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105629.314:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105634.335:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105639.351:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105644.363:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105649.379:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105654.389:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105659.401:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105704.408:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105709.418:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105714.429:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105719.450:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105724.457:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105729.470:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105734.476:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105739.492:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105744.508:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105749.522:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105754.533:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105759.547:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105804.551:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105809.564:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105814.577:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105819.584:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105824.602:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105829.621:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105834.637:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105839.651:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105844.656:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105849.666:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105854.686:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105859.703:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105904.713:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105909.729:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105914.746:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/105919.754:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0201/112013.984:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/112013.984:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/112134.907:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/112134.907:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/113957.731:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/113957.731:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/152734.930:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/152734.931:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/152746.374:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/152746.374:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/152852.035:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/152852.036:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/152852.378:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/152852.378:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153229.781:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153229.782:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153628.890:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153628.890:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153631.695:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153631.696:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153632.017:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153632.017:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153632.325:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153632.325:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153632.629:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153632.629:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153632.944:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153632.944:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153635.135:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153635.135:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153635.444:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153635.444:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153635.766:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153635.766:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153636.070:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153636.070:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/153636.384:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/153636.384:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0201/155117.169:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0201/155117.169:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
